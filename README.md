@@ -111,4 +111,6 @@ The notebook integrates datasets related to student performance and heart diseas
 
 ## License
 
-This project is open-source under the **MIT License**.
+© 2025 Mehmet Akif Sipahi. All rights reserved.  
+This project is shared for educational and portfolio demonstration purposes only.  
+Reproduction, redistribution, or submission of this material for academic credit is strictly prohibited.
